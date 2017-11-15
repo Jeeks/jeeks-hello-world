@@ -1,2 +1,4 @@
 # jeeks-hello-world
-another hello-world repository
+Hi all,
+This is my first repository to learn how github works.
+
